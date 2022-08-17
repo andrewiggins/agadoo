@@ -9,6 +9,11 @@
   "bin": {
     "agadoo": "agadoo"
   },
+  "files": [
+    "agadoo",
+    "CHANGELOG.md",
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andrewiggins/agadoo.git"
