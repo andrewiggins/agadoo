@@ -1,6 +1,6 @@
 {
   "name": "@drewigg/agadoo",
-  "version": "2.0.0",
+  "version": "3.0.0-drewigg.1",
   "description": "Check whether a package is tree-shakeable",
   "main": "index.js",
   "scripts": {
