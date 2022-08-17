@@ -1,5 +1,7 @@
 # agadoo
 
+> This package is a fork of [Rich Harris's agadoo](https://github.com/rich-harris/agadoo), updated to Rollup 2 and Acorn 8.
+
 *[Ag-a-doo-doo-doo, push pineapple, shake the tree](https://www.youtube.com/watch?v=POv-3yIPSWc)*
 
 

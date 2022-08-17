@@ -1,5 +1,9 @@
 # agadoo changelog
 
+## 3.0.0-drewigg.2
+
+* Update readme to point to original repo
+
 ## 3.0.0-drewigg.1
 
 * Rename package to @drewigg/agadoo
